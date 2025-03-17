@@ -6,6 +6,6 @@ En las carpetas que podemos encontrar en el repositorio se ubican los chats divi
 - Encontraremos los chats en los que se ha empleado el LLM como refuerzo marcados como Fase 2.
 
 Por último, aclarar el formato de los chats según el LLM:
-🔗 ChatGPT: extraídos en PDF.
-🔗 Gemini: archivo .txt con los enlaces públicos al propio chat.
-🔗 DeepSeek: grabaciones .mp4 de las conversaciones debido a la ausencia de herramientas para extraer esta información en un mejor formato.
+- 🔗 ChatGPT: extraídos en PDF.
+- 🔗 Gemini: archivo .txt con los enlaces públicos al propio chat.
+- 🔗 DeepSeek: grabaciones .mp4 de las conversaciones debido a la ausencia de herramientas para extraer esta información en un mejor formato.
